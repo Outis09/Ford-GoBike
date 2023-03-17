@@ -22,4 +22,3 @@ I will also display the line chart showing the two peak periods for the overall 
 
 The presentation will include the average duration and distance for each user type.
 Majority of the trips take 5 to 15 minutes with a peak of 9 minutes. However, this average duration is different if the member is a Customer or Subscriber
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
