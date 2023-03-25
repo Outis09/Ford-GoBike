@@ -1,6 +1,8 @@
 # Analysis of FordGoBike Share Trips
-## Samuel Ayer
 
+**NB:** Use these links to view the HTML files
+* **[fordbike_part_I.html](https://htmlpreview.github.io/?https://github.com/Outis09/Ford-GoBike/blob/master/fordbike_part_I.html)**
+* **[fordbike_part_II.html](https://htmlpreview.github.io/?https://github.com/Outis09/Ford-GoBike/blob/master/fordbike_part_II.html)**
 
 ## Dataset
 The data contains information on trips made in a bike-sharing system in the greater San Francisco Bay area. It contains information on 183412 trips with 16 variables. The original dataset had some missing data therefore a copy of the data was created and nulls were dropped from the data. Using the start time, a new column was created to contain the day of the week the tri was started. Also the distance between the start and end stations for each trip was calculated using the longitudes and latitudes of both stations. The dataset used in the analysis had 165419 observations and 18 variables. The original dataset can be accessed [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv).
